@@ -2,6 +2,7 @@
 
 > A modern, lightweight, and extensible static website builder system designed for fast web development using HTML, CSS, JavaScript, and optional Python automation.
 
+ 
 ---
 
 ## 🌐 Overview
